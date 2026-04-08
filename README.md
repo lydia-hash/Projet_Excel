@@ -16,10 +16,10 @@ The Projet Excel is designed to facilitate data processing and analysis using Ex
 
 ### Images
 Below are links to some important images related to the project:
-- ![Capture 1](./images/Capture1.png)
-- ![Capture 2](./images/Capture2.png)
-- ![Capture 3](./images/Capture3.png)
-- ![Capture 4](./images/Capture4.png)
+- ![Capture 1](./images/Capture1.PNG)
+- ![Capture 2](./images/Capture2.PNG)
+- ![Capture 3](./images/Capture3.PNG)
+- ![Capture 4](./images/Capture4.PNG)
 
 ### Usage Instructions
 To use the application, follow these steps:
